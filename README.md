@@ -14,7 +14,7 @@ videos into notes, schedules into workflows, and daily learning into reusable kn
 ## Featured projects
 
 - **[timetable](https://github.com/Health-525/timetable)**
-  The automation hub — handles all GitHub Actions logic for schedule generation, assignment tracking, adjustment syncing, and YouTube note pipelines. Keeps jiangshu-study clean by doing all the heavy lifting here.
+  The automation hub — handles all GitHub Actions logic for schedule generation, assignment tracking, adjustment syncing, and YouTube note pipelines. Keeps jiangshu-study clean by doing all the heavy lifting here. Pairs with iOS Shortcuts for one-tap assignment submission and daily auto-sync on mobile.
 
 - **[jiangshu-study](https://github.com/Health-525/jiangshu-study)**
   Personal study knowledge base for course notes, English learning, and daily outputs. Text-only, Obsidian-native. Assignments are tracked automatically with deadline reminders and one-tap archiving.
