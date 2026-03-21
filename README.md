@@ -12,29 +12,29 @@ videos into notes, schedules into workflows, and daily learning into reusable kn
 - **Lightweight tools** focused on usefulness, clarity, and speed
 
 ## Featured projects
-- **[videonote-ai](https://github.com/Health-525/videonote-ai)**
-  AI workflows that transform videos into structured learning notes.
 
 - **[timetable](https://github.com/Health-525/timetable)**
-  A lightweight timetable and study automation system with sync workflows.
+  The automation hub — handles all GitHub Actions logic for schedule generation, assignment tracking, adjustment syncing, and YouTube note pipelines. Keeps jiangshu-study clean by doing all the heavy lifting here.
 
 - **[jiangshu-study](https://github.com/Health-525/jiangshu-study)**
-  A personal study knowledge base for course notes, English learning, and daily outputs.
+  Personal study knowledge base for course notes, English learning, and daily outputs. Text-only, Obsidian-native. Assignments are tracked automatically with deadline reminders and one-tap archiving.
+
+- **[videonote-ai](https://github.com/Health-525/videonote-ai)**
+  AI workflows that transform videos into structured learning notes.
 
 - **[vibechat](https://github.com/Health-525/vibechat)**
   A lightweight experiment in chat interaction and product ideas.
 
 ## Current focus
-- AI-assisted note-taking
-- personal knowledge management
-- study automation
-- useful small tools
-- turning repeated tasks into reusable workflows
+- Study automation with GitHub Actions + Obsidian + iOS Shortcuts
+- AI-assisted note-taking from YouTube and other sources
+- Personal knowledge management
+- Turning repeated manual tasks into zero-friction workflows
 
 ## Beyond my own projects
 I also contribute to public repositories when I can improve documentation, workflows, or practical usability.
 
-I’m especially interested in contributions that:
+I'm especially interested in contributions that:
 - reduce friction
 - improve clarity
 - make systems easier to maintain
