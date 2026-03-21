@@ -22,6 +22,9 @@ videos into notes, schedules into workflows, and daily learning into reusable kn
 - **[videonote-ai](https://github.com/Health-525/videonote-ai)**
   AI workflows that transform videos into structured learning notes.
 
+- **[FrameDetective](https://github.com/Health-525/FrameDetective)**
+  A video object detection and analysis platform based on SAM3 (Segment Anything Model 3). Supports frame-by-frame analysis, intelligent segmentation, and occurrence tracking. Use cases include surveillance, video content analysis, and anti-trafficking scenarios.
+
 - **[vibechat](https://github.com/Health-525/vibechat)**
   A lightweight experiment in chat interaction and product ideas.
 
