@@ -70,17 +70,12 @@ Useful, clear & fast
 
 🏆 **模法黑客松 S1 最佳人气奖** · 样本图+提示词检索海量监控视频 · ToG/ToC 双场景落地
 
-<details>
-<summary><b>展开详情</b></summary>
-
-| Aspect | Details |
+| | |
 |:---|:---|
-| **Core** | 视频帧级目标检索与定位 |
-| **Stack** | Qwen-2.5-VL-32B-Instruct · SAM-3 · 动态掩码标注 · 推理报告自动生成 |
-| **My Role** | 架构设计 · 模型选型 · 高并发处理 · 前端开发 |
-| **Impact** | 获相关部门认可，推进落地合作 |
-
-</details>
+| **核心能力** | 视频帧级目标检索与定位 |
+| **技术栈** | Qwen-2.5-VL-32B-Instruct · SAM-3 · 动态掩码标注 · 推理报告自动生成 |
+| **我的职责** | 架构设计 · 模型选型 · 高并发处理 · 前端开发 |
+| **项目成果** | 获相关部门认可，推进落地合作 |
 
 ---
 
@@ -126,13 +121,10 @@ Useful, clear & fast
 
 ---
 
-<details>
-<summary><b>📁 更多项目</b></summary>
+### 📁 More Projects
 
-- **[jiangshu-study](https://github.com/Health-525/jiangshu-study)** — Obsidian-native 个人知识库
+- **[jiangshu-study](https://github.com/Health-525/jiangshu-study)** — Obsidian-native 个人知识库，作业自动追踪与归档
 - **[vibechat](https://github.com/Health-525/vibechat)** — 轻量级聊天交互实验
-
-</details>
 
 ---
 
