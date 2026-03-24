@@ -8,6 +8,7 @@ I turn messy inputs into structured systems — videos into notes, schedules int
 
 [![Website](https://img.shields.io/badge/Website-jiangshu.fun-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://jiangshu.fun)
 [![GitHub](https://img.shields.io/badge/GitHub-@Health--525-181717?style=flat&logo=github&logoColor=white)](https://github.com/Health-525)
+[![微信公众号](https://img.shields.io/badge/微信公众号-江树-07C160?style=flat&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/ZKxoxGp7p0mkfp-9q5FgfA)
 
 </div>
 
