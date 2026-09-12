@@ -129,41 +129,38 @@ Useful, clear & fast
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools I Use
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-**Frameworks & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white)
-
-**Cloud & Infra**
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<p>
+  <img height="30" width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img height="30" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="42" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="30" width="42" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="30" width="42" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" />
+  <img height="30" width="42" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="30" width="42" alt="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
+  <img height="30" width="42" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <img height="30" width="42" alt="n8n" src="https://cdn.simpleicons.org/n8n/FF6D5A" />
+  <img height="30" width="42" alt="Obsidian" src="https://cdn.simpleicons.org/obsidian/7C3AED" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Health-525&show_icons=true&theme=default&hide_border=true)](https://github.com/Health-525)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Health-525&layout=compact&hide_border=true)](https://github.com/Health-525)
+<img height="150" alt="Most used languages" src="https://raw.githubusercontent.com/Health-525/Health-525/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img height="150" alt="GitHub statistics" src="https://raw.githubusercontent.com/Health-525/Health-525/build/profile-summary-card-output/tokyonight/3-stats.svg" />
 
 </div>
+
+<img alt="GitHub contribution details" src="https://raw.githubusercontent.com/Health-525/Health-525/build/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Health-525/Health-525/build/snake/github-contribution-grid-snake.svg" />
+
+<img alt="3D GitHub contribution graph" src="https://raw.githubusercontent.com/Health-525/Health-525/build/profile-3d-contrib/profile-gitblock.svg" />
 
 ---
 
