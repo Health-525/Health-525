@@ -1,57 +1,4 @@
-<div align="center">
-
-# 👋 Hey, I'm JiangShu
-
-> **Building AI workflows, learning systems, and useful tools.**
-
-I turn messy inputs into structured systems — videos into notes, schedules into workflows, and daily learning into reusable knowledge.
-
-[![Website](https://img.shields.io/badge/Website-jiangshu.fun-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://jiangshu.fun)
-[![GitHub](https://img.shields.io/badge/GitHub-@Health--525-181717?style=flat&logo=github&logoColor=white)](https://github.com/Health-525)
-[![微信公众号](https://img.shields.io/badge/微信公众号-小书Doing-07C160?style=flat&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/ZKxoxGp7p0mkfp-9q5FgfA)
-
-</div>
-
----
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**🤖 AI Workflows**
-
-Extraction, generation & automation
-
-</td>
-<td width="25%" align="center">
-
-**📚 Learning Systems**
-
-Organize, review & accumulate
-
-</td>
-<td width="25%" align="center">
-
-**⚡ Knowledge Pipelines**
-
-Daily inputs → long-term assets
-
-</td>
-<td width="25%" align="center">
-
-**🛠️ Lightweight Tools**
-
-Useful, clear & fast
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Featured Projects
+## 🚀 Selected Work
 
 ### 🎓 Learning OS · `2026.03`
 
@@ -131,7 +78,7 @@ Useful, clear & fast
 
 ## 🛠️ Tools I Use
 
-<p>
+<p align="center">
   <img height="30" width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="30" width="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img height="30" width="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
